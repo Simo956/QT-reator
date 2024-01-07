@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>img/infoImage.jpg</file>
+        <file>img/available.jpg</file>
+        <file>img/booked.jpg</file>
+    </qresource>
+</RCC>
